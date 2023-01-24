@@ -70,6 +70,12 @@ def max_marks(marks):
 
 ## Output:
 
+![Screenshot (55)](https://user-images.githubusercontent.com/118361409/214353323-95603155-3c56-40eb-a613-1f841f00ea76.png)
+
+![Screenshot (56)](https://user-images.githubusercontent.com/118361409/214353553-f97f4c55-e7dc-491e-862a-bf3b13492924.png)
+
+
+![Screenshot (57)](https://user-images.githubusercontent.com/118361409/214353681-77870402-afa4-4d47-bf94-e087f6a5768d.png)
 
 
 
