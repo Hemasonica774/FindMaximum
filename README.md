@@ -22,7 +22,8 @@ def max_marks(marks):
     large = marks[-1]
     return large
   
-''' 
+```
+
 ii)	# To find the maximum marks using the list method max().
 ```Python
 
