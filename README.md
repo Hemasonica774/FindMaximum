@@ -23,10 +23,10 @@ def max_marks(marks):
     return large
   
 ''' 
-
 ii)	# To find the maximum marks using the list method max().
 ```Python
 
+'''
 Program to find the maximum marks using the list method max().
 Developed by: P.Hemasonica
 RegisterNumber: 22003246 
