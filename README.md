@@ -23,16 +23,6 @@ def max_marks(marks):
     return large
   
 ''' 
-Program to mark the maximum of marks using the list method sort
-Developed by: P.Hemasonica
-RegisterNumber: 
-'''
-def max_marks(marks):
-    marks.sort()
-    large = marks[-1]
-    return large
-  
-```
 
 ii)	# To find the maximum marks using the list method max().
 ```Python
